@@ -11,7 +11,7 @@ def assembled_aoh
   # Array. Ruby constants are denoted by ALL_CAPS
   #[DON_G,JOELLE_VD,PAT_M,KATE_G,BRUCE_G]
   new_array=[]
-  array.push(DON_G,JOELLE_VD,PAT_M,KATE_G,BRUCE_G)
+  new_array.push(DON_G,JOELLE_VD,PAT_M,KATE_G,BRUCE_G)
 end
 
 def literal_aoh
